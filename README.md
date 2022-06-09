@@ -21,9 +21,9 @@
 
 - 📫 My Emails: 
   
-  - Gmail: A.Tavana.1385@gmail.com
+  - Gmail: AriaTavana1385@gmail.com
 
-  - Hotmail: A.Tavana.1385@hotmail.com
+  - Hotmail: AriaTavana1385@hotmail.com
 
 <div align="center">
 <center>
