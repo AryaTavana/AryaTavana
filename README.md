@@ -1,19 +1,17 @@
 <h1 align="center">Hi, I'm Aria Tavana <img width="45" src="https://user-images.githubusercontent.com/93381804/146921925-20dd3068-5280-4e9a-bcde-439783f61e02.gif"</h1>
 <h3 align="center">Programming Student 💻</h3>
 
-<!--<p align="center">
-  <a href="https://github.com/shayan-zadehsakha/Exir/network/members">
-    <img src="https://img.shields.io/github/forks/shayan-zadehsakha/Exir"/> 
+<p align="center">
+  <a href="https://github.com/Aria-Tavana/Python-LRN/network/members">
+    <img src="https://img.shields.io/github/forks/Aria-Tavana/Python-LRN"/> 
   </a>  
-  <a href="https://github.com/shayan-zadehsakha/Exir/stargazers">
-    <img src="https://img.shields.io/github/stars/shayan-zadehsakha/Exir"/> 
+  <a href="https://github.com/Aria-Tavana/Python-LRN/stargazers">
+    <img src="https://img.shields.io/github/stars/Aria-Tavana/Python-LRN"/> 
   </a>
-  <a href="https://github.com/shayan-zadehsakha/Exir/issues">
-    <img src="https://img.shields.io/github/issues/shayan-zadehsakha/Exir"/> 
+  <a href="https://github.com/Aria-Tavana/Python-LRN/issues">
+    <img src="https://img.shields.io/github/issues/Aria-Tavana/Python-LRN"/> 
   </a>
-</p>-->
-
-- 👨‍💻 I’m currently working on Hamtimi-Startup
+</p>
 
 - 🎓 I learned [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server), [Dotnet](https://dotnet.microsoft.com/en-us/), [C# WinForm](https://www.c-sharpcorner.com/article/windows-form-application-c-sharp/), [C# WPF](https://wpf-tutorial.com/) and I'm currently learning [Python](https://dotnet.microsoft.com/en-us/](https://www.python.org/))
 
@@ -49,7 +47,7 @@
 
 <h3 align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/93381804/146921022-cb1f659c-fd9e-4555-a8e7-0a4897a4a2bb.png" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/93381804/146919541-f0be8961-950f-40ee-9225-1b585ef22f0f.png" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src=https://user-images.githubusercontent.com/93382556/147087001-6350a67f-f5fb-4ba3-a085-1e782b55fd71.png alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/93381804/146919022-dfbcfda6-2091-472e-a142-4f661c96df46.png" alt="photoshop" width="40" height="40"/></h3>
   
-<!--<h1 align="center">Github Trophies <img width="45" src="https://user-images.githubusercontent.com/93381804/147075527-c3728c04-d5ea-40b7-8d2b-c6d34a38df23.png"</h1>
+<h1 align="center">Github Trophies <img width="45" src="https://user-images.githubusercontent.com/93381804/147075527-c3728c04-d5ea-40b7-8d2b-c6d34a38df23.png"</h1>
 <h3 align="center">
-  <a href="https://github.com/shayan-zadehsakha/Exir"><img src="https://github-profile-trophy.vercel.app/?username=shayan-zadehsakha&theme=tokyonight&no-frame=true"</a> 
-</h3>-->
+  <a href="https://github.com/Aria-Tavana/Python-LRN"><img src="https://github-profile-trophy.vercel.app/?username=shayan-zadehsakha&theme=tokyonight&no-frame=true"</a> 
+</h3>
