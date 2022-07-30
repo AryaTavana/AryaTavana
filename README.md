@@ -2,14 +2,14 @@
 <h3 align="center">Programming Student 💻</h3>
 
 <p align="center">
-  <a href="https://github.com/Aria-Tavana/Python-LRN/network/members">
-    <img src="https://img.shields.io/github/forks/Aria-Tavana/Python-LRN"/> 
+  <a href="https://github.com/Aria-Tavana/Gold-System/network/members">
+    <img src="https://img.shields.io/github/forks/Aria-Tavana/Gold-System"/> 
   </a>  
-  <a href="https://github.com/Aria-Tavana/Python-LRN/stargazers">
-    <img src="https://img.shields.io/github/stars/Aria-Tavana/Python-LRN"/> 
+  <a href="https://github.com/Aria-Tavana/Gold-System/stargazers">
+    <img src="https://img.shields.io/github/stars/Aria-Tavana/Gold-System"/> 
   </a>
-  <a href="https://github.com/Aria-Tavana/Python-LRN/issues">
-    <img src="https://img.shields.io/github/issues/Aria-Tavana/Python-LRN"/> 
+  <a href="https://github.com/Aria-Tavana/Gold-System/issues">
+    <img src="https://img.shields.io/github/issues/Aria-Tavana/Gold-System"/> 
   </a>
 </p>
 
@@ -49,5 +49,5 @@
   
 <h1 align="center">Github Trophies <img width="45" src="https://user-images.githubusercontent.com/93381804/147075527-c3728c04-d5ea-40b7-8d2b-c6d34a38df23.png"</h1>
 <h3 align="center">
-  <a href="https://github.com/Aria-Tavana/Python-LRN"><img src="https://github-profile-trophy.vercel.app/?username=shayan-zadehsakha&theme=tokyonight&no-frame=true"</a> 
+  <a href="https://github.com/Aria-Tavana/Gold-System"><img src="https://github-profile-trophy.vercel.app/?username=shayan-zadehsakha&theme=tokyonight&no-frame=true"</a> 
 </h3>
