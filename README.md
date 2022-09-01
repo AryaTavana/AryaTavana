@@ -49,5 +49,5 @@
   
 <h1 align="center">Github Trophies <img width="45" src="https://user-images.githubusercontent.com/93381804/147075527-c3728c04-d5ea-40b7-8d2b-c6d34a38df23.png"</h1>
 <h3 align="center">
-  <a href="https://github.com/Aria-Tavana/Gold-System"><img src="https://github-profile-trophy.vercel.app/?username=shayan-zadehsakha&theme=tokyonight&no-frame=true"</a> 
+  <a href="https://github.com/Aria-Tavana/Gold-System"><img src="https://github-profile-trophy.vercel.app/?username=Aria-Tavana&theme=tokyonight&no-frame=true"</a> 
 </h3>
