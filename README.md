@@ -19,9 +19,7 @@
 
 - 📫 My Emails: 
   
-  - Gmail: AriaTavana1385@gmail.com
-
-  - Hotmail: AriaTavana1385@hotmail.com
+  - Gmail: aryatavana07@gmail.com
 
 <div align="center">
 <center>
