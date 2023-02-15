@@ -38,8 +38,7 @@
   
 <h1 align="center">Connect with me <img width="45" src="https://user-images.githubusercontent.com/93381804/147072364-30e3ae31-5c3a-4ddb-95cf-fb75dd8f5336.png"</h1>
 <h3 align="center">
-<a href="https://twitter.com/Aria_Tavana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_tavana1385" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17091010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17091010" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21219212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17091010" height="30" width="40" /></a>
 </h3>
   
 <h1 align="center">Languages and Tools <img width="45" src="https://user-images.githubusercontent.com/93381804/147076270-ce2b2883-c7e4-4b54-b890-ec2e98de46ea.png"</h1>
