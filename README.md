@@ -1,39 +1,40 @@
-<h1 align="center">Hi, I'm Aria Tavana <img width="45" src="https://user-images.githubusercontent.com/93381804/146921925-20dd3068-5280-4e9a-bcde-439783f61e02.gif"</h1>
+<h1 align="center">Hi, I'm Arya Tavana <img width="45" src="https://user-images.githubusercontent.com/93381804/146921925-20dd3068-5280-4e9a-bcde-439783f61e02.gif"</h1>
 <h3 align="center">Programming Student 💻</h3>
 
 <p align="center">
-  <a href="https://github.com/Aria-Tavana/CodeForces/network/members">
-    <img src="https://img.shields.io/github/forks/Aria-Tavana/CodeForces"/> 
-  </a>  
-  <a href="https://github.com/Aria-Tavana/CodeForces/stargazers">
-    <img src="https://img.shields.io/github/stars/Aria-Tavana/CodeForces"/> 
-  </a>
-  <a href="https://github.com/Aria-Tavana/CodeForces/issues">
-    <img src="https://img.shields.io/github/issues/Aria-Tavana/CodeForces"/> 
-  </a>
+	<a href="https://github.com/AryaTavana/AryaTavana/network/members">
+		<img src="https://img.shields.io/github/forks/AryaTavana/AryaTavana"/> 
+  	</a>  
+  	<a href="https://github.com/AryaTavana/AryaTavana/stargazers">
+    	<img src="https://img.shields.io/github/stars/AryaTavana/AryaTavana"/> 
+  	</a>
+  	<a href="https://github.com/AryaTavana/AryaTavana/issues">
+    	<img src="https://img.shields.io/github/issues/AryaTavana/AryaTavana"/> 
+  	</a>
 </p>
 
-- 🎓 I learned [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server), [Dotnet](https://dotnet.microsoft.com/en-us/), [C# WinForm](https://www.c-sharpcorner.com/article/windows-form-application-c-sharp/), [C# WPF](https://wpf-tutorial.com/), [C++](https://www.w3schools.com/cpp/cpp_intro.asp) and I'm currently learning [Python](https://dotnet.microsoft.com/en-us/](https://www.python.org/))
+- 🎓 I've learned Microsoft C#, Microsoft C++, Microsoft Dotnet, Microsoft SQL Server and Microsoft WPF. I'm learning Python.
 
-- 📚 All of my projects are available at [Aria-Tavana](https://github.com/Aria-Tavana?tab=repositories)
+- 📚 All of my projects are available at [AryaTavana](https://github.com/AryaTavana?tab=repositories)
 
 - 📫 My Emails: 
   
   - Gmail: aryatavana07@gmail.com
 
 <div align="center">
-<center>
- <table>
-  <tr>
-   <td>
-    <img width="512px" align="left" src="https://github-readme-stats.vercel.app/api?username=Aria-Tavana&show_icons=true&theme=tokyonight&hide_border=true&locale=en"/>
-   </td>
-   <td>
-    <img width="512px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Aria-Tavana&theme=tokyonight&hide_border=true" />
-   </td>
-  </tr>
- </table>
-</center>  
+	<center>
+		<table>
+  			<tr>
+   				<td>
+					<img width="512px" align="left" src="https://github-readme-stats.vercel.app/api?username=AryaTavana&show_icons=true&theme=tokyonight&hide_border=true&locale=en"/>
+				</td>
+				<td>
+    				<img width="512px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AryaTavana&theme=tokyonight&hide_border=true" />
+   				</td>
+			</tr>
+	</table>
+	</center>  
+</div>
   
 <h1 align="center">Connect with me <img width="45" src="https://user-images.githubusercontent.com/93381804/147072364-30e3ae31-5c3a-4ddb-95cf-fb75dd8f5336.png"</h1>
 <h3 align="center">
@@ -47,5 +48,5 @@
   
 <h1 align="center">Github Trophies <img width="45" src="https://user-images.githubusercontent.com/93381804/147075527-c3728c04-d5ea-40b7-8d2b-c6d34a38df23.png"</h1>
 <h3 align="center">
-  <a href="https://github.com/Aria-Tavana/CodeForces"><img src="https://github-profile-trophy.vercel.app/?username=Aria-Tavana&theme=tokyonight&no-frame=true"</a> 
+  <a href="https://github.com/AryaTavana/AryaTavana"><img src="https://github-profile-trophy.vercel.app/?username=AryaTavana&theme=tokyonight&no-frame=true"</a> 
 </h3>
