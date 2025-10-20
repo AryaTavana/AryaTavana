@@ -1,82 +1,74 @@
-<h1 align="center"> Hi, I'm Arya Tavana <img width="40"
-        src="https://user-images.githubusercontent.com/93381804/146921925-20dd3068-5280-4e9a-bcde-439783f61e02.gif">
-</h1>
-<h3 align="center">Programming Student 💻</h3>
+<h1 align="center">👋 Hi, I'm Arya Tavana</h1>
+<h3 align="center">Python Django Developer | Electrical Engineer at K. N. Toosi University of Technology</h3>
 
 <p align="center">
-    <a href="https://github.com/AryaTavana/AryaTavana/network/members">
-        <img src="https://img.shields.io/github/forks/AryaTavana/AryaTavana">
-    </a>
-    <a href="https://github.com/AryaTavana/AryaTavana/stargazers">
-        <img src="https://img.shields.io/github/stars/AryaTavana/AryaTavana">
-    </a>
-    <a href="https://github.com/AryaTavana/AryaTavana/issues">
-        <img src="https://img.shields.io/github/issues/AryaTavana/AryaTavana">
-    </a>
+  <a href="https://github.com/AryaTavana/AryaTavana/network/members"><img src="https://img.shields.io/github/forks/AryaTavana/AryaTavana?style=for-the-badge&color=blue"></a>
+  <a href="https://github.com/AryaTavana/AryaTavana/stargazers"><img src="https://img.shields.io/github/stars/AryaTavana/AryaTavana?style=for-the-badge&color=yellow"></a>
+  <a href="https://github.com/AryaTavana/AryaTavana/issues"><img src="https://img.shields.io/github/issues/AryaTavana/AryaTavana?style=for-the-badge&color=red"></a>
 </p>
 
-- 🎓 I've learned Microsoft C#, Microsoft C++, Microsoft Dotnet, Microsoft SQL Server and Microsoft WPF
+---
 
-- 📚 All of my projects are available at [AryaTavana](https://github.com/AryaTavana?tab=repositories)
+### 🧠 About Me
 
-- 📫 My Gmail: aryatavana07@gmail.com
+- 🐍 I’m a **Python Django** developer  
+- 🌐 I’ve learned **HTML** and **CSS** for web development  
+- ⚡ I’m an **Electrical Engineer** at **K. N. Toosi University of Technology**  
+- 🤖 Currently working on **AI projects** and learning **Machine Learning (ML)** and **Deep Learning (DL)**  
 
-<div align="center">
-    <table>
-        <tr>
-            <td>
-                <img width="512px" align="left"
-                    src="https://github-readme-stats.vercel.app/api?username=AryaTavana&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
-            </td>
-            <td>
-                <img width="512px" align="right"
-                    src="https://github-readme-streak-stats.herokuapp.com/?user=AryaTavana&theme=tokyonight&hide_border=true" />
-            </td>
-        </tr>
-    </table>
-</div>
+---
 
-<h2 align="center">Connect with me <img width="40"
-        src="https://user-images.githubusercontent.com/93381804/147072364-30e3ae31-5c3a-4ddb-95cf-fb75dd8f5336.png">
-    <h3 align="center">
-        <a href="https://stackoverflow.com/users/21219212" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-                alt="17091010" height="30" width="30" /> </a>
-    </h3>
-</h2>
+### ⚙️ GitHub Stats
 
-<h2 align="center">Languages and Tools <img width="40"
-        src="https://user-images.githubusercontent.com/93381804/147076270-ce2b2883-c7e4-4b54-b890-ec2e98de46ea.png">
-    <h3 align="center">
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                alt="cplusplus" width="30" height="30" /> </a>
-        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                alt="csharp" width="30" height="30" /> </a>
-        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-            <img src="https://user-images.githubusercontent.com/93381804/146921022-cb1f659c-fd9e-4555-a8e7-0a4897a4a2bb.png"
-                alt="dotnet" width="30" height="30" /> </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30"
-                height="30" /></a>
-        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-            <img src="https://user-images.githubusercontent.com/93381804/146919541-f0be8961-950f-40ee-9225-1b585ef22f0f.png"
-                alt="illustrator" width="30" height="30" /> </a>
-        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-            <img src=https://user-images.githubusercontent.com/93382556/147087001-6350a67f-f5fb-4ba3-a085-1e782b55fd71.png
-                alt="mssql" width="30" height="30" /> </a>
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-            <img src="https://user-images.githubusercontent.com/93381804/146919022-dfbcfda6-2091-472e-a142-4f661c96df46.png"
-                alt="photoshop" width="30" height="30" />
-    </h3>
-</h2>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AryaTavana&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AryaTavana&theme=github-dark&hide_border=true" />
+</p>
 
-<h2 align="center">Github Trophies <img width="40"
-        src="https://user-images.githubusercontent.com/93381804/147075527-c3728c04-d5ea-40b7-8d2b-c6d34a38df23.png">
-    <h3 align="center">
-        <a href="https://github.com/AryaTavana/AryaTavana">
-            <img src="https://github-profile-trophy.vercel.app/?username=AryaTavana&theme=tokyonight&no-frame=true" />
-        </a>
-    </h3>
-</h2>
+---
+
+### 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AryaTavana&theme=github_dark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:aryatavana07@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://stackoverflow.com/users/21219212" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40"/>
+  </a>
+  <a href="https://www.kaggle.com/yourkaggleusername" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+</p>
+
+<p align="center">
+  📧 **aryatavana07@gmail.com**
+</p>
+
+---
+
+<p align="center">
+  <i>“Building intelligent systems, one commit at a time.”</i> 🚀  
+</p>
