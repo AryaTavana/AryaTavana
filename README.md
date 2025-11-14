@@ -1,74 +1,24 @@
-<h1 align="center">👋 Hi, I'm Arya Tavana</h1>
-<h3 align="center">Python Django Developer | Electrical Engineer at K. N. Toosi University of Technology</h3>
 
-<p align="center">
-  <a href="https://github.com/AryaTavana/AryaTavana/network/members"><img src="https://img.shields.io/github/forks/AryaTavana/AryaTavana?style=for-the-badge&color=blue"></a>
-  <a href="https://github.com/AryaTavana/AryaTavana/stargazers"><img src="https://img.shields.io/github/stars/AryaTavana/AryaTavana?style=for-the-badge&color=yellow"></a>
-  <a href="https://github.com/AryaTavana/AryaTavana/issues"><img src="https://img.shields.io/github/issues/AryaTavana/AryaTavana?style=for-the-badge&color=red"></a>
-</p>
+## 🌐 Socials:
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21219212) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryatavana07@gmail.com) 
 
----
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AryaTavana&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AryaTavana&theme=aura_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaTavana&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🧠 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AryaTavana&theme=aura_dark&no-frame=false&no-bg=true&margin-w=4)
 
-- 🐍 I’m a **Python Django** developer  
-- 🌐 I’ve learned **HTML** and **CSS** for web development  
-- ⚡ I’m an **Electrical Engineer** at **K. N. Toosi University of Technology**  
-- 🤖 Currently working on **AI projects** and learning **Machine Learning (ML)** and **Deep Learning (DL)**  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
-### ⚙️ GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AryaTavana&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AryaTavana&theme=github-dark&hide_border=true" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AryaTavana&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AryaTavana&icon=0&color=7)](https://visitcount.itsvg.in)
 
-### 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AryaTavana&theme=github_dark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 🧰 Languages & Tools
-
-<p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:aryatavana07@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="https://stackoverflow.com/users/21219212" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40"/>
-  </a>
-  <a href="https://www.kaggle.com/yourkaggleusername" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-</p>
-
-<p align="center">
-  📧 **aryatavana07@gmail.com**
-</p>
-
----
-
-<p align="center">
-  <i>“Building intelligent systems, one commit at a time.”</i> 🚀  
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
