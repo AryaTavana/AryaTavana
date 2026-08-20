@@ -2,7 +2,7 @@
 
 Full-stack developer building reliable web applications with Django, React, TypeScript, PostgreSQL, and Docker.
 
-[Email](mailto:aryatavana07@gmail.com) · [Stack Overflow](https://stackoverflow.com/users/21219212) · [Resume](./RESUME.md)
+[Live website](https://thoughthub-aryatavana.alwaysdata.net/) · [Email](mailto:aryatavana07@gmail.com) · [Stack Overflow](https://stackoverflow.com/users/21219212) · [Resume](./RESUME.md)
 
 ## What I'm working on
 
@@ -14,7 +14,7 @@ Full-stack developer building reliable web applications with Django, React, Type
 
 | Project | Highlights | Stack |
 | --- | --- | --- |
-| [ThoughtHub](https://github.com/AryaTavana/ThoughtHub) | Publishing platform with session authentication, a block-based editor, search and discovery, comments, moderation workflows, notifications, and responsive LTR/RTL support. | Django, Django REST Framework, React, TypeScript, PostgreSQL, Docker |
+| [ThoughtHub](https://github.com/AryaTavana/ThoughtHub) · [Live site](https://thoughthub-aryatavana.alwaysdata.net/) | Publishing platform with session authentication, a block-based editor, search and discovery, comments, moderation workflows, notifications, and responsive LTR/RTL support. | Django, Django REST Framework, React, TypeScript, PostgreSQL, Docker |
 | [Discourse Topic Reply Limits](https://github.com/AryaTavana/discourse-topic-reply-limits) | Production-oriented Discourse plugin with per-topic group quotas, subscription-cycle carryover, server-side enforcement, admin reporting, and audit history. | Ruby, Rails, Ember/Glimmer, PostgreSQL, RSpec |
 | [React Learning](https://github.com/AryaTavana/React-Learning) | Practical exercises covering routing, forms and validation, data fetching, TypeScript types, Jest, and Testing Library. | React, TypeScript, Vite, Tailwind CSS, Jest |
 | [Bus Ticket Reservation](https://github.com/AryaTavana/Bus-Ticket-Reservation) | Command-line seat reservation system using linked lists, passenger lookup, duplicate checks, and cancellation. | C, CMake |

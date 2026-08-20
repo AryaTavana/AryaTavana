@@ -1,7 +1,7 @@
 # Arya Tavana
 
 **Full-Stack Developer** · Tehran, Iran  
-[aryatavana07@gmail.com](mailto:aryatavana07@gmail.com) · [GitHub](https://github.com/AryaTavana) · [Stack Overflow](https://stackoverflow.com/users/21219212)
+[aryatavana07@gmail.com](mailto:aryatavana07@gmail.com) · [GitHub](https://github.com/AryaTavana) · [Live website](https://thoughthub-aryatavana.alwaysdata.net/) · [Stack Overflow](https://stackoverflow.com/users/21219212)
 
 ## Professional summary
 
@@ -18,7 +18,7 @@ Full-stack developer focused on building maintainable web applications with Djan
 
 ## Selected projects
 
-### [ThoughtHub](https://github.com/AryaTavana/ThoughtHub) — Full-Stack Publishing Community
+### [ThoughtHub](https://github.com/AryaTavana/ThoughtHub) — Full-Stack Publishing Community · [Live site](https://thoughthub-aryatavana.alwaysdata.net/)
 
 **Django, Django REST Framework, React, TypeScript, PostgreSQL, Docker** · 2026
 
