@@ -1,20 +1,39 @@
 # Arya Tavana
 
-**Full-Stack Developer** · Tehran, Iran  
-[aryatavana07@gmail.com](mailto:aryatavana07@gmail.com) · [GitHub](https://github.com/AryaTavana) · [Live website](https://thoughthub-aryatavana.alwaysdata.net/) · [Stack Overflow](https://stackoverflow.com/users/21219212)
+**Full-Stack Product Developer** · Tehran, Iran<br>
+[aryatavana07@gmail.com](mailto:aryatavana07@gmail.com) · [GitHub](https://github.com/AryaTavana) · [NEoWave Chart](https://neowavechart.com/) · [ThoughtHub](https://thoughthub-aryatavana.alwaysdata.net/) · [Stack Overflow](https://stackoverflow.com/users/21219212)
 
 ## Professional summary
 
-Full-stack developer focused on building maintainable web applications with Django, React, and TypeScript. Experienced in designing REST APIs, session-based authentication, publishing and moderation workflows, responsive interfaces, relational data models, automated tests, and Docker-based deployment configurations. Also develops open-source extensions for the Discourse platform.
+Full-stack product developer behind NEoWave Chart, a production education, market-research, community, and commerce platform. Builds maintainable Django systems with PostgreSQL, Redis, Celery, Docker, and Nginx, as well as React and TypeScript applications. Experienced across subscription entitlements, payment fulfilment, account security, background processing, content platforms, automated testing, CI/CD, backups, performance, and accessible responsive interfaces.
 
 ## Technical skills
 
 - **Languages:** Python, TypeScript, JavaScript, Ruby, C, HTML, CSS
-- **Backend:** Django, Django REST Framework, Rails conventions, REST APIs
+- **Backend:** Django, Django REST Framework, Celery, REST APIs, server-rendered applications
 - **Frontend:** React, React Router, Bootstrap, Tailwind CSS, Vite
-- **Databases:** PostgreSQL, SQLite
-- **Testing:** Vitest, Jest, Testing Library, RSpec
-- **Tools and infrastructure:** Git, GitHub, Docker, Nginx, CMake
+- **Data and caching:** PostgreSQL, Redis, SQLite
+- **Product systems:** E-commerce, subscriptions, entitlements, payments, wallets, notifications, support tickets, CMS, SEO, Discourse SSO
+- **Testing:** Django TestCase, Vitest, Jest, Testing Library, RSpec
+- **Infrastructure:** Docker, Gunicorn, Nginx, GitHub Actions, health/readiness monitoring, encrypted backups
+
+## Product engineering
+
+### [NEoWave Chart](https://neowavechart.com/) — Full-Stack Developer
+
+**Django, PostgreSQL, Redis, Celery, Docker, Nginx, Bootstrap, GitHub Actions** · 2025–Present
+
+- Developed a production educational and technology platform for NEoWave analysts, serving 26+ active students with market research, expert Q&A, specialized tools, and subscription community access.
+- Built a flexible product catalogue and commerce system with categories, duration-based and unlimited pricing, carts, coupons, gift subscriptions, customer reviews, and purchase receipts.
+- Implemented centralized subscription entitlements for Discourse forum tiers, chart-review allowances, trading signals, forecasts, protected videos, downloads, and account benefits.
+- Engineered wallet and cryptocurrency-payment workflows with signature verification, provider reconciliation, idempotent fulfilment, duplicate protection, refunds, and administrative review paths.
+- Delivered registration, email verification and secure email-change workflows, password recovery, member dashboards, support tickets, notifications, branded email, badges, scores, gifts, and activity feeds.
+- Integrated Discourse SSO and automated membership-group synchronization, connecting subscription tiers to the open-source reply-quota plugin.
+- Developed an SEO-focused blog and research system, sitemaps, structured metadata, favorite posts, buffered view counters, comparison tables, FAQs, reviews, and targeted popup campaigns with aggregate metrics.
+- Operated a Dockerized production architecture with PostgreSQL, Redis, Celery workers/Beat, Gunicorn, Nginx, health checks, structured request metrics, caching, and responsive WebP image processing.
+- Automated tests, image builds, and production deployment through GitHub Actions with immutable commit images, pre-deployment backups, health-gated releases, rollback support, encrypted off-site retention, and scheduled restore tests.
+- Applied CSP nonces, server-side entitlement checks, HTML sanitization, upload validation, rate limiting, private-cache policies, Cloudflare Turnstile, accessibility patterns, and reduced-motion support.
+- Grew the private codebase to 367 commits, 369 test methods, 87 migrations, and 56 server-rendered templates by August 2026.
 
 ## Selected projects
 
@@ -43,4 +62,4 @@ Full-stack developer focused on building maintainable web applications with Djan
 - **[Bus Ticket Reservation](https://github.com/AryaTavana/Bus-Ticket-Reservation):** C command-line application for seat availability, reservations, cancellations, passenger search, and duplicate-identity checks using a linked list.
 - **[AI/ML/DL Learning](https://github.com/AryaTavana/AI-ML-DL-Learning):** Python learning repository containing an Iris k-nearest-neighbors classification exercise with scikit-learn.
 
-<!-- Add verified employment, education, certifications, and live deployment URLs here when available. -->
+<!-- Add verified education, certifications, awards, languages, and employment details here when available. -->
