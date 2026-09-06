@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">NEoWave Chart — Production platform</title>
+<desc id="desc">Original geometric artwork in midnight blue, electric blue, and teal for Arya Tavana's GitHub profile.</desc>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#438BFF"/><stop offset="1" stop-color="#47E0CF"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#164471" stop-opacity=".6"/><stop offset="1" stop-color="#0B1220" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#5F88B7" stroke-opacity=".09"/></pattern>
+</defs>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x=".5" y=".5" width="1199" height="289" rx="22" fill="#0B1220" stroke="#26384F"/>
+<rect x="728" y="1" width="448" height="288" fill="url(#grid)"/>
+<ellipse cx="975" cy="150" rx="280" ry="200" fill="url(#glow)"/>
+<text x="45" y="55" fill="#64DECF" font-family="monospace" font-size="17" letter-spacing="2">01 / PRODUCTION PLATFORM</text>
+<text x="42" y="139" fill="#EDF5FF" font-size="61" font-weight="700" letter-spacing="-2">NEoWave Chart</text>
+<text x="46" y="185" fill="#AEC2DA" font-size="25">Learning. Research. Community.</text>
+<text x="46" y="242" fill="#73B3FF" font-family="monospace" font-size="19">neowavechart.com ↗</text>
+<path d="M759 235H1141M759 195H1141M759 155H1141M759 115H1141M759 75H1141" stroke="#30465E" stroke-opacity=".5"/>
+<path d="M759 222L813 174L854 198L931 106L985 142L1085 57L1141 88L1141 251H759Z" fill="url(#accent)" opacity=".1"/>
+<path d="M759 222L813 174L854 198L931 106L985 142L1085 57L1141 88" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#0B1220" stroke="#58D7DB" stroke-width="3"><circle cx="813" cy="174" r="6"/><circle cx="931" cy="106" r="6"/><circle cx="1085" cy="57" r="6"/></g>
+
+</g>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Arya Tavana — Full-stack product developer</title>
+<desc id="desc">Original geometric artwork in midnight blue, electric blue, and teal for Arya Tavana's GitHub profile.</desc>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#438BFF"/><stop offset="1" stop-color="#47E0CF"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#164471" stop-opacity=".6"/><stop offset="1" stop-color="#0B1220" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#5F88B7" stroke-opacity=".09"/></pattern>
+</defs>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x=".5" y=".5" width="1199" height="429" rx="22" fill="#0B1220" stroke="#26384F"/>
+<rect x="750" y="1" width="427" height="428" fill="url(#grid)"/>
+<ellipse cx="1010" cy="208" rx="300" ry="250" fill="url(#glow)"/>
+<rect x="54" y="44" width="42" height="42" rx="12" fill="url(#accent)"/>
+<path d="M64 73L70 57L76 73M66 68H74M77 57H88M82.5 57V73" stroke="#0B1220" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="112" y="71" fill="#AABAD0" font-family="monospace" font-size="16" letter-spacing="2.7">SOFTWARE / PRODUCT / SYSTEMS</text>
+<text x="50" y="202" fill="#F0F6FF" font-size="94" font-weight="700" letter-spacing="-4">Arya Tavana<tspan fill="#47E0CF">.</tspan></text>
+<text x="55" y="254" fill="#C5D3E8" font-size="30">Full-stack product developer</text>
+<text x="55" y="298" fill="#8FA9C8" font-size="21">Django foundations. React experiences.</text>
+<path d="M55 348H730" stroke="#26384F"/>
+<circle cx="62" cy="382" r="5" fill="#47E0CF"/>
+<text x="79" y="387" fill="#9CB4D0" font-family="monospace" font-size="15" letter-spacing="1.2">TEHRAN, IRAN</text>
+<text x="498" y="387" fill="#9CB4D0" font-family="monospace" font-size="15">@AryaTavana</text>
+<path d="M944 142V183M1054 143V250H1009M945 231V290" stroke="url(#accent)" stroke-width="2" stroke-dasharray="5 6"/>
+<rect x="838" y="83" width="248" height="69" rx="13" fill="#101F34" stroke="#3970AC"/>
+<rect x="853" y="99" width="35" height="35" rx="9" fill="#1B3555"/>
+<path d="M864 110L860 116L864 122M877 110L881 116L877 122M872 108L868 124" stroke="#78B6FF" stroke-width="1.7"/>
+<text x="903" y="125" fill="#D9E9FF" font-family="monospace" font-size="18">interface</text>
+<rect x="824" y="184" width="219" height="65" rx="13" fill="#10253A" stroke="#419CB7"/>
+<path d="M842 207L852 201L862 207V219L852 225L842 219ZM842 207L852 213L862 207M852 213V225" stroke="#6EE9DC" stroke-width="1.7"/>
+<text x="879" y="224" fill="#D9E9FF" font-family="monospace" font-size="18">application</text>
+<rect x="882" y="292" width="234" height="65" rx="13" fill="#102C35" stroke="#3D978E"/>
+<ellipse cx="911" cy="314" rx="10" ry="4" stroke="#6EE9DC" stroke-width="1.6"/>
+<path d="M901 314V331C901 337 921 337 921 331V314M901 323C901 329 921 329 921 323" stroke="#6EE9DC" stroke-width="1.6"/>
+<text x="940" y="332" fill="#D9E9FF" font-family="monospace" font-size="18">infrastructure</text>
+<circle cx="944" cy="169" r="4" fill="#6EE9DC"/>
+<circle cx="945" cy="270" r="4" fill="#6EE9DC"/>
+
+</g>
+</svg>

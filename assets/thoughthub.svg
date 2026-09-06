@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="170" viewBox="0 0 560 170" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">ThoughtHub — Publishing and community</title>
+<desc id="desc">Original geometric artwork in midnight blue, electric blue, and teal for Arya Tavana's GitHub profile.</desc>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#438BFF"/><stop offset="1" stop-color="#47E0CF"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#164471" stop-opacity=".6"/><stop offset="1" stop-color="#0B1220" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#5F88B7" stroke-opacity=".09"/></pattern>
+</defs>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x=".5" y=".5" width="559" height="169" rx="22" fill="#0B1220" stroke="#26384F"/>
+<ellipse cx="495" cy="100" rx="175" ry="150" fill="url(#glow)"/>
+<text x="27" y="42" fill="#7BB6FF" font-family="monospace" font-size="16" letter-spacing="1.5">02 / PUBLISHING</text>
+<text x="25" y="98" fill="#EDF5FF" font-size="38" font-weight="700" letter-spacing="-1">ThoughtHub</text>
+<text x="28" y="136" fill="#A8BDD5" font-size="20">A place for ideas.</text>
+<rect x="406" y="36" width="105" height="104" rx="13" fill="#152C45" stroke="#4E83BB"/>
+<path d="M428 60H487M428 76H487M428 92H474M428 115H460" stroke="#8FC2FF" stroke-width="4" stroke-linecap="round"/>
+<circle cx="504" cy="130" r="19" fill="#438BFF"/>
+<path d="M497 130H511M504 123V137" stroke="#F0F6FF" stroke-width="2.5"/>
+
+</g>
+</svg>

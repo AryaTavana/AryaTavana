@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">From the first idea to the details that last. Arya Tavana.</title>
+<desc id="desc">Original geometric artwork in midnight blue, electric blue, and teal for Arya Tavana's GitHub profile.</desc>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#438BFF"/><stop offset="1" stop-color="#47E0CF"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#164471" stop-opacity=".6"/><stop offset="1" stop-color="#0B1220" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#5F88B7" stroke-opacity=".09"/></pattern>
+</defs>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x=".5" y=".5" width="1199" height="119" rx="22" fill="#0B1220" stroke="#26384F"/>
+<rect x="1" y="30" width="4" height="60" rx="2" fill="url(#accent)"/>
+<text x="40" y="70" fill="#AFC2DC" font-size="25">From the first idea to the details that last.</text>
+<text x="938" y="70" fill="#6EDDCF" font-family="monospace" font-size="21">Arya Tavana ↗</text>
+
+</g>
+</svg>

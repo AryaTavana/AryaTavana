@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="520" viewBox="0 0 720 520" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Arya Tavana — Full-stack product developer</title>
+<desc id="desc">Original geometric artwork in midnight blue, electric blue, and teal for Arya Tavana's GitHub profile.</desc>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#438BFF"/><stop offset="1" stop-color="#47E0CF"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#164471" stop-opacity=".6"/><stop offset="1" stop-color="#0B1220" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#5F88B7" stroke-opacity=".09"/></pattern>
+</defs>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x=".5" y=".5" width="719" height="519" rx="22" fill="#0B1220" stroke="#26384F"/>
+<rect x="400" y="1" width="296" height="518" fill="url(#grid)"/>
+<ellipse cx="610" cy="420" rx="340" ry="290" fill="url(#glow)"/>
+<rect x="40" y="40" width="48" height="48" rx="13" fill="url(#accent)"/>
+<path d="M51 73L57 55L64 73M53 67H62M65 55H78M71.5 55V73" stroke="#0B1220" stroke-width="3" stroke-linejoin="round"/>
+<text x="109" y="70" fill="#AABAD0" font-family="monospace" font-size="19" letter-spacing="2">SOFTWARE / PRODUCT / SYSTEMS</text>
+<text x="36" y="205" fill="#F0F6FF" font-size="83" font-weight="700" letter-spacing="-4">Arya Tavana<tspan fill="#47E0CF">.</tspan></text>
+<text x="40" y="263" fill="#D3DEF0" font-size="34">Full-stack product developer</text>
+<text x="40" y="310" fill="#9CB4D0" font-size="25">Django foundations. React experiences.</text>
+<rect x="40" y="351" width="126" height="41" rx="9" fill="#16324D" stroke="#3970AC"/>
+<text x="62" y="379" fill="#AED3FF" font-family="monospace" font-size="22">Django</text>
+<rect x="180" y="351" width="117" height="41" rx="9" fill="#103139" stroke="#3D978E"/>
+<text x="205" y="379" fill="#85E7DB" font-family="monospace" font-size="22">React</text>
+<rect x="311" y="351" width="173" height="41" rx="9" fill="#16324D" stroke="#3970AC"/>
+<text x="330" y="379" fill="#AED3FF" font-family="monospace" font-size="22">TypeScript</text>
+<path d="M40 433H680" stroke="#26384F"/>
+<circle cx="47" cy="474" r="6" fill="#47E0CF"/>
+<text x="66" y="482" fill="#9CB4D0" font-family="monospace" font-size="21">TEHRAN, IRAN</text>
+<text x="494" y="482" fill="#9CB4D0" font-family="monospace" font-size="21">@AryaTavana</text>
+
+</g>
+</svg>
