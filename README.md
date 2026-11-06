@@ -108,6 +108,22 @@ NEoWave Chart is an independent educational and technology platform based on Gle
 
 <br>
 
+### Blu Web Design
+
+Responsive React implementation of a Persian banking homepage, with RTL layouts, interactive navigation, and motion.
+
+`React` `JavaScript` `CSS` `Vite`
+
+### Blu AML Banking
+
+Responsive Persian banking education page built with HTML, CSS, and JavaScript, featuring RTL sliders, dialogs, and video playback.
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+*Source code for both Blu projects is private.*
+
+<br>
+
 ## My toolkit
 
 | Layer | Technologies I work with |
